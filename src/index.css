@@ -1,0 +1,78 @@
+body{
+	overflow: hidden;
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.animal{
+	display: inline-block;
+	width: 60px;
+	height: 60px;
+	cursor: pointer;
+	margin: 15px
+}
+
+.animal img{
+	height: 75px;
+	margin: 13px
+}
+
+.player{
+	display: inline-block;
+	width: 60px;
+	height: 60px;
+	margin: 13px
+}
+
+.player img{
+	width: 75px;
+	cursor: pointer;
+}
+
+.animals-block{
+	display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1ch;
+}
+
+.players-block{
+	display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1ch;
+	margin-bottom: 60px;
+	margin-top: 25px
+}
+
+.button{
+    display: inline-block;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    background: #668ad8;
+    color: #FFF;
+    border-bottom: solid 4px #627295;
+    border-radius: 3px;
+		margin: 10px;
+		font-family: 'Calibri';
+		font-weight: bold;
+		width: 200px;
+		cursor: pointer
+}
+.button:active {
+    -ms-transform: translateY(4px);
+    -webkit-transform: translateY(4px);
+    transform: translateY(4px);
+    box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.2);
+    border-bottom: none;
+}
+
+.logo{
+	width: 51%;
+	margin: 0;
+	padding: 0;
+}
