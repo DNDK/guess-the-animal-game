@@ -1,10 +1,11 @@
 function Player(props){
+	let src = `${window.location.pathname}/playButton.png`
 	return(
 		<div className = "player"
 
 		onClick = {props.onClick}
 		>
-			<img src = "/playButton.png" />
+			<img src = {src} />
 		</div>
 	)
 }
