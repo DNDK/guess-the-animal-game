@@ -4,7 +4,7 @@ function Player(props){
 
 		onClick = {props.onClick}
 		>
-			<img src = "/playButton.png" />
+			<img src= "/playButton.png" />
 		</div>
 	)
 }
