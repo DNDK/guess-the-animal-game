@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/guess-the-animal-game/static/css/main.cfdc6229.chunk.css",
+    "main.js": "/guess-the-animal-game/static/js/main.fdc164d9.chunk.js",
+    "main.js.map": "/guess-the-animal-game/static/js/main.fdc164d9.chunk.js.map",
+    "runtime-main.js": "/guess-the-animal-game/static/js/runtime-main.1000c800.js",
+    "runtime-main.js.map": "/guess-the-animal-game/static/js/runtime-main.1000c800.js.map",
+    "static/js/2.f241ed2e.chunk.js": "/guess-the-animal-game/static/js/2.f241ed2e.chunk.js",
+    "static/js/2.f241ed2e.chunk.js.map": "/guess-the-animal-game/static/js/2.f241ed2e.chunk.js.map",
+    "index.html": "/guess-the-animal-game/index.html",
+    "static/css/main.cfdc6229.chunk.css.map": "/guess-the-animal-game/static/css/main.cfdc6229.chunk.css.map",
+    "static/js/2.f241ed2e.chunk.js.LICENSE.txt": "/guess-the-animal-game/static/js/2.f241ed2e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1000c800.js",
+    "static/js/2.f241ed2e.chunk.js",
+    "static/css/main.cfdc6229.chunk.css",
+    "static/js/main.fdc164d9.chunk.js"
+  ]
+}
